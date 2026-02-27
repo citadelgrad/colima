@@ -1,0 +1,25 @@
+environment/container/containerd/containerd.go
+  7046e250a73ca470 7,74-75,80-81,87-105
+docs/FAQ.md
+  7046e250a73ca470 25-26,282-306
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.5",
+  "base_commit_sha": "5f7bfeadaf43bebe652010365ec5bdaaf8e8619a",
+  "prompts": {
+    "7046e250a73ca470": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b4073af2-22f8-4238-9b46-763b7acbd5f8",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Scott Nixon <citadelgrad@gmail.com>",
+      "messages": [],
+      "total_additions": 53,
+      "total_deletions": 2,
+      "accepted_lines": 53,
+      "overriden_lines": 0
+    }
+  }
+}
