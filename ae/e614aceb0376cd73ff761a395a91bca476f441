@@ -1,0 +1,23 @@
+docs/FAQ.md
+  7046e250a73ca470 44-49,288-322,454-550
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "aee614aceb0376cd73ff761a395a91bca476f441",
+  "prompts": {
+    "7046e250a73ca470": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b4073af2-22f8-4238-9b46-763b7acbd5f8",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Scott Nixon <citadelgrad@gmail.com>",
+      "messages": [],
+      "total_additions": 53,
+      "total_deletions": 2,
+      "accepted_lines": 138,
+      "overriden_lines": 0
+    }
+  }
+}
